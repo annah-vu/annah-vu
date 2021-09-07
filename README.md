@@ -1,6 +1,6 @@
 Hello, my name is Anna!
 
-:computer: I am a Data Science alumni from CodeUp! 
+:computer: I am a Data Science alumni from CodeUp! (Florence Cohort)
 
 :mortar_board: I have an MBA - Finance
 
