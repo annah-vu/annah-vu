@@ -1,8 +1,10 @@
 Hello, my name is Anna!
 
-:computer: I am a Data Science Student at CodeUp! 
+:computer: I am a Data Science alumni from CodeUp! 
 
 :mortar_board: I have an MBA - Finance
+
+:mortar_board: A BBA in Business Management
 
 :tennis: I love to play tennis!
 
