@@ -2,9 +2,7 @@ Hello, my name is Anna!
 
 :computer: I am a Data Science alumni from CodeUp! (Florence Cohort)
 
-:mortar_board: I have an MBA - Finance
-
-:mortar_board: A BBA in Business Management
+:mortar_board: I have an MBA - Finance, and a BBA in Management!
 
 :tennis: I love to play tennis!
 
